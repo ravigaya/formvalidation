@@ -7,3 +7,5 @@ If you're building a website or app, you'll need to know how to validate forms.T
  Adding a social media button
  Adding the image
  Media queries for the mobile version (responsive)
+
+![image](https://user-images.githubusercontent.com/25307894/141931986-35fb6c88-f557-4637-859f-28f4d7c0e74f.png)
